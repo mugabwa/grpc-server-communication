@@ -64,5 +64,5 @@ This project demonstrates server-to-server communication using gRPC in a Django 
 
 ## Additional Resources
 
-- [book_accounts README](path/to/book_accounts/README.md)
-- [book_mx README](path/to/book_mx/README.md)
+- [book_accounts README](book_accounts/Readme.md)
+- [book_mx README](book_mx/Readme.md)
